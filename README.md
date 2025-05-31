@@ -1,4 +1,4 @@
-# kcoverage_multi_MATLAB
+# kcoverage
 
 If you use this code in published work, please cite paper[2] as listed below.
 
